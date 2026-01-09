@@ -1,0 +1,16 @@
+# Data Manipulation & Numerical Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning & Unsupervised Clustering
+scikit-learn>=1.2.0
+
+# Deep Learning Framework (Supervised Prediction)
+torch>=2.0.0
+
+# Model Serialization & Persistence
+joblib>=1.2.0
+
+# Interactive Dashboard & Visualization
+streamlit>=1.25.0
+matplotlib>=3.7.0
